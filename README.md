@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Najle</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 Ion’m currently working **my web site**
+- 🔭 Ion’m currently working **my web site** (file:///C:/Users/thega/OneDrive/Escritorio/idk/Workspace/Portfolio/Portfolio-FrontEnd/index.html)
 
 - 🌱 I’m currently learning **Full Stack Developer Jr at Argentina-Programa**
 
